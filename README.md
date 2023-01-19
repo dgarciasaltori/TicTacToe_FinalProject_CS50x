@@ -1,4 +1,6 @@
-# Tic Tac Toe game (web version) made using HTML, JS.
+# Tic Tac Toe game (web version) made using whith HTML, JS.
+
+Final project for the CS50x course at Harvard University.
 
 #### Video demo: https://youtu.be/X4z_JWu0NTw
 
